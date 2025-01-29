@@ -1,7 +1,6 @@
 # tuberculosis
 
 ### Setting up the python environment
-If python isn’t installed run: sudo apt install python3.10-venv
 
 Setting up a Python venv:
 
