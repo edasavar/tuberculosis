@@ -15,3 +15,6 @@ Setting up a Python venv:
 - save changes: `git add .`
 - move to staging: `git commit -m "note for update"`
 - push to remote repo: `git push`
+
+### project info
+- data from: https://www.kaggle.com/datasets/ankushpanday1/tuberculosis-tb-predictiontop-75-countries
